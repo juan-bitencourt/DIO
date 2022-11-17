@@ -1,4 +1,4 @@
-# DESAFIOS DE PROJETO
+# PROJETOS
 
 Aqui estão os desafios de projeto que fui fazendo durante meus cursos da DIO.
 
