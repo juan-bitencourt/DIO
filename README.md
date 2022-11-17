@@ -1,6 +1,6 @@
 # DESAFIOS DE PROJETO DIO
 
-Esse repositório foi criado para deixar registrado os desafios de projeto que serão feitos durante os cursos da [Digital Inovation One]([DIO | Codifique o seu futuro global agora](https://web.dio.me/home)).
+Esse repositório foi criado para deixar registrado os desafios de projeto que serão feitos durante os cursos da [Digital Inovation One](https://web.dio.me/home).
 
 
 
